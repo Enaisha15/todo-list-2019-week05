@@ -1,7 +1,7 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+ Todo List
 
-### Goal: Build a Simple Todo List
-
+### Goal: Build a Simple Todo List!
+<(https://user-images.githubusercontent.com/89624071/133541881-fef95be8-1de8-4105-a862-17f898c2c508.png)
 ### How to submit your code for review:
 
 - Fork and clone this repo
