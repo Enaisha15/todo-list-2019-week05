@@ -1,22 +1,10 @@
- Todo List
+<h1> Simple To-do List:</h1>
+Link to project: https://enaishatodolist.netlify.app
 
-### Goal: Build a Simple Todo List!
-<(https://user-images.githubusercontent.com/89624071/133541881-fef95be8-1de8-4105-a862-17f898c2c508.png)
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![to-dolist](https://user-images.githubusercontent.com/89624071/133542520-386d6a3b-1e13-465f-9ac1-b74698709950.png)
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+<h3>How It's Made:
+used: HTML, CSS, JavaScript,</h3>
+<p>User can write todo items in an input, and can add the items to an array by clicking the “Add” button.</P>
+
